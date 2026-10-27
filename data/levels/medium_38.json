@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 416,
+    "singletons": 1,
+    "solver_nodes": 16
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 66,
+  "id": "medium_38",
+  "order": 76,
+  "regions": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      1,
+      3,
+      3
+    ],
+    [
+      2,
+      2,
+      4,
+      3,
+      3
+    ]
+  ],
+  "seed": "2131",
+  "size": 5,
+  "solution": [
+    1,
+    3,
+    0,
+    4,
+    2
+  ],
+  "title": "Clover Cove"
+}

@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 411.0,
+    "singletons": 1.0,
+    "solver_nodes": 11.0
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 83.0,
+  "id": "medium_01",
+  "order": 39,
+  "regions": [
+    [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ],
+    [
+      1.0,
+      1.0,
+      3.0,
+      3.0,
+      2.0
+    ],
+    [
+      1.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    [
+      4.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  ],
+  "seed": "1045",
+  "size": 5.0,
+  "solution": [
+    3.0,
+    1.0,
+    4.0,
+    2.0,
+    0.0
+  ],
+  "title": "Daisy Daydream"
+}

@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 419,
+    "singletons": 1,
+    "solver_nodes": 19
+  },
+  "difficulty": "Hard",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 112,
+  "id": "hard_35",
+  "order": 97,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      2,
+      2,
+      3
+    ],
+    [
+      1,
+      4,
+      3,
+      3,
+      3
+    ]
+  ],
+  "seed": "2105",
+  "size": 5,
+  "solution": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "title": "Rose Garden"
+}

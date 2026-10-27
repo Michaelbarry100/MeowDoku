@@ -1,0 +1,70 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Launching never initializes or displays ads
+PASS: Control exists: PlayButton
+PASS: Control exists: HintButton
+PASS: Control exists: UndoButton
+PASS: Control exists: HintButton
+PASS: Control exists: UndoButton
+PASS: Control exists: HintButton
+PASS: Control exists: UndoButton
+PASS: Three free UI hints work without ad permission
+PASS: Control exists: HintButton
+PASS: Empty inventory offers optional hint choices
+PASS: Watch unavailable without explicit local permission
+PASS: Control exists: KeepPlayingButton
+PASS: Declining optional ads returns to unchanged playable board
+PASS: Manual play still works with no hints and no ads
+PASS: Control exists: UndoButton
+PASS: Control exists: EarnHintButton
+PASS: Control exists: AdPrivacyButton
+PASS: Development privacy flow explains local simulation choice
+PASS: Control exists: AllowMockAdsButton
+PASS: Control exists: BackButton
+PASS: Returning from opt-in makes optional test ad available
+PASS: Control exists: WatchAdButton
+PASS: Ad simulator is a separate full screen; board/control area is hidden
+PASS: Opening test ad gives no credit
+PASS: Control exists: SkipSimulationButton
+PASS: Skip earns nothing and offers return
+PASS: Control exists: KeepPlayingButton
+PASS: Skipping returns to original puzzle
+PASS: Control exists: EarnHintButton
+PASS: Control exists: WatchAdButton
+PASS: Control exists: CompleteSimulationButton
+PASS: Verified completion credits one test hint without auto-playing it
+PASS: Production bank remains zero
+PASS: Duplicate native-style callback has no second UI reward
+PASS: Control exists: KeepPlayingButton
+PASS: Control exists: EarnHintButton
+PASS: Control exists: WatchAdButton
+PASS: Control exists: CompleteSimulationButton
+PASS: Backgrounding does not place pause menu over ad or invent a reward
+PASS: Foreground return settles only queued verified callback
+PASS: Control exists: KeepPlayingButton
+PASS: Control exists: HintButton
+PASS: Extra hint is spent only on a deliberate Hint tap
+PASS: Control exists: UndoButton
+PASS: Undo does not refund rewarded hints or free quota
+PASS: Control exists: EarnHintButton
+PASS: Control exists: WatchAdButton
+PASS: Control exists: FailSimulationButton
+PASS: Failed test ad does not reward
+PASS: Control exists: KeepPlayingButton
+PASS: Control exists: EarnHintButton
+PASS: Unavailable provider disables Watch without blocking Keep playing
+PASS: Control exists: KeepPlayingButton
+PASS: Control exists: EarnHintButton
+PASS: Control exists: AdPrivacyButton
+PASS: Control exists: AdsOffButton
+PASS: Control exists: BackButton
+PASS: Privacy opt-out stops requests while retaining earned hints
+PASS: Control exists: KeepPlayingButton
+PASS: Optional hint controls fit smallest phone width
+PASS: Touch-friendly control: UndoButton
+PASS: Touch-friendly control: HintButton
+PASS: Touch-friendly control: EarnHintButton
+PASS: Relaunch preserves opt-out and never auto-initializes ads
+PASS: Control exists: PlayButton
+PASS: Allowance and test bank survive app reopening
+RESULT: 67 rewarded-hint UI checks, 0 failures

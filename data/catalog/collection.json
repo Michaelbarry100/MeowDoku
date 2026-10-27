@@ -1,0 +1,499 @@
+{
+  "campaign_revision": 2,
+  "curation": "150 unique 5x5 puzzles; original 32 IDs/boards retained. Remaining 118 seeded, uniqueness validated, rotation/reflection deduplicated. Two introductory boards followed by nondecreasing singleton/solver-node score. Difficulty is heuristic, not human calibrated.",
+  "daily_pool": [
+    "easy_01",
+    "easy_02",
+    "easy_03",
+    "easy_04",
+    "easy_05",
+    "easy_06",
+    "easy_07",
+    "easy_08",
+    "medium_01",
+    "medium_02",
+    "medium_03",
+    "medium_04",
+    "medium_05",
+    "medium_06",
+    "medium_07",
+    "medium_08",
+    "hard_01",
+    "hard_02",
+    "hard_03",
+    "hard_04",
+    "hard_05",
+    "hard_06",
+    "hard_07",
+    "hard_08",
+    "expert_01",
+    "expert_02",
+    "expert_03",
+    "expert_04",
+    "expert_05",
+    "expert_06",
+    "expert_07",
+    "expert_08"
+  ],
+  "daily_seed": "purrfect-curated-v1",
+  "difficulty_counts": {
+    "Easy": 38,
+    "Expert": 37,
+    "Hard": 37,
+    "Medium": 38
+  },
+  "levels": [
+    {
+      "path": "res://data/levels/easy_01.json"
+    },
+    {
+      "path": "res://data/levels/easy_02.json"
+    },
+    {
+      "path": "res://data/levels/easy_03.json"
+    },
+    {
+      "path": "res://data/levels/easy_04.json"
+    },
+    {
+      "path": "res://data/levels/easy_10.json"
+    },
+    {
+      "path": "res://data/levels/easy_14.json"
+    },
+    {
+      "path": "res://data/levels/easy_16.json"
+    },
+    {
+      "path": "res://data/levels/easy_17.json"
+    },
+    {
+      "path": "res://data/levels/easy_19.json"
+    },
+    {
+      "path": "res://data/levels/easy_23.json"
+    },
+    {
+      "path": "res://data/levels/easy_30.json"
+    },
+    {
+      "path": "res://data/levels/easy_31.json"
+    },
+    {
+      "path": "res://data/levels/easy_38.json"
+    },
+    {
+      "path": "res://data/levels/easy_05.json"
+    },
+    {
+      "path": "res://data/levels/easy_06.json"
+    },
+    {
+      "path": "res://data/levels/easy_09.json"
+    },
+    {
+      "path": "res://data/levels/easy_11.json"
+    },
+    {
+      "path": "res://data/levels/easy_20.json"
+    },
+    {
+      "path": "res://data/levels/easy_26.json"
+    },
+    {
+      "path": "res://data/levels/easy_28.json"
+    },
+    {
+      "path": "res://data/levels/easy_32.json"
+    },
+    {
+      "path": "res://data/levels/easy_37.json"
+    },
+    {
+      "path": "res://data/levels/easy_07.json"
+    },
+    {
+      "path": "res://data/levels/easy_08.json"
+    },
+    {
+      "path": "res://data/levels/easy_12.json"
+    },
+    {
+      "path": "res://data/levels/easy_13.json"
+    },
+    {
+      "path": "res://data/levels/easy_15.json"
+    },
+    {
+      "path": "res://data/levels/easy_21.json"
+    },
+    {
+      "path": "res://data/levels/easy_22.json"
+    },
+    {
+      "path": "res://data/levels/easy_35.json"
+    },
+    {
+      "path": "res://data/levels/easy_18.json"
+    },
+    {
+      "path": "res://data/levels/easy_27.json"
+    },
+    {
+      "path": "res://data/levels/easy_36.json"
+    },
+    {
+      "path": "res://data/levels/easy_24.json"
+    },
+    {
+      "path": "res://data/levels/easy_29.json"
+    },
+    {
+      "path": "res://data/levels/easy_34.json"
+    },
+    {
+      "path": "res://data/levels/easy_25.json"
+    },
+    {
+      "path": "res://data/levels/easy_33.json"
+    },
+    {
+      "path": "res://data/levels/medium_01.json"
+    },
+    {
+      "path": "res://data/levels/medium_22.json"
+    },
+    {
+      "path": "res://data/levels/medium_37.json"
+    },
+    {
+      "path": "res://data/levels/medium_02.json"
+    },
+    {
+      "path": "res://data/levels/medium_13.json"
+    },
+    {
+      "path": "res://data/levels/medium_15.json"
+    },
+    {
+      "path": "res://data/levels/medium_23.json"
+    },
+    {
+      "path": "res://data/levels/medium_25.json"
+    },
+    {
+      "path": "res://data/levels/medium_30.json"
+    },
+    {
+      "path": "res://data/levels/medium_32.json"
+    },
+    {
+      "path": "res://data/levels/medium_27.json"
+    },
+    {
+      "path": "res://data/levels/medium_34.json"
+    },
+    {
+      "path": "res://data/levels/medium_35.json"
+    },
+    {
+      "path": "res://data/levels/medium_03.json"
+    },
+    {
+      "path": "res://data/levels/medium_04.json"
+    },
+    {
+      "path": "res://data/levels/medium_05.json"
+    },
+    {
+      "path": "res://data/levels/medium_16.json"
+    },
+    {
+      "path": "res://data/levels/medium_17.json"
+    },
+    {
+      "path": "res://data/levels/medium_28.json"
+    },
+    {
+      "path": "res://data/levels/medium_36.json"
+    },
+    {
+      "path": "res://data/levels/medium_06.json"
+    },
+    {
+      "path": "res://data/levels/medium_10.json"
+    },
+    {
+      "path": "res://data/levels/medium_12.json"
+    },
+    {
+      "path": "res://data/levels/medium_18.json"
+    },
+    {
+      "path": "res://data/levels/medium_19.json"
+    },
+    {
+      "path": "res://data/levels/medium_21.json"
+    },
+    {
+      "path": "res://data/levels/medium_24.json"
+    },
+    {
+      "path": "res://data/levels/medium_26.json"
+    },
+    {
+      "path": "res://data/levels/medium_31.json"
+    },
+    {
+      "path": "res://data/levels/medium_07.json"
+    },
+    {
+      "path": "res://data/levels/medium_08.json"
+    },
+    {
+      "path": "res://data/levels/medium_09.json"
+    },
+    {
+      "path": "res://data/levels/medium_11.json"
+    },
+    {
+      "path": "res://data/levels/medium_14.json"
+    },
+    {
+      "path": "res://data/levels/medium_20.json"
+    },
+    {
+      "path": "res://data/levels/medium_29.json"
+    },
+    {
+      "path": "res://data/levels/medium_33.json"
+    },
+    {
+      "path": "res://data/levels/medium_38.json"
+    },
+    {
+      "path": "res://data/levels/hard_01.json"
+    },
+    {
+      "path": "res://data/levels/hard_02.json"
+    },
+    {
+      "path": "res://data/levels/hard_11.json"
+    },
+    {
+      "path": "res://data/levels/hard_12.json"
+    },
+    {
+      "path": "res://data/levels/hard_14.json"
+    },
+    {
+      "path": "res://data/levels/hard_18.json"
+    },
+    {
+      "path": "res://data/levels/hard_03.json"
+    },
+    {
+      "path": "res://data/levels/hard_09.json"
+    },
+    {
+      "path": "res://data/levels/hard_15.json"
+    },
+    {
+      "path": "res://data/levels/hard_19.json"
+    },
+    {
+      "path": "res://data/levels/hard_21.json"
+    },
+    {
+      "path": "res://data/levels/hard_22.json"
+    },
+    {
+      "path": "res://data/levels/hard_24.json"
+    },
+    {
+      "path": "res://data/levels/hard_27.json"
+    },
+    {
+      "path": "res://data/levels/hard_29.json"
+    },
+    {
+      "path": "res://data/levels/hard_33.json"
+    },
+    {
+      "path": "res://data/levels/hard_04.json"
+    },
+    {
+      "path": "res://data/levels/hard_05.json"
+    },
+    {
+      "path": "res://data/levels/hard_16.json"
+    },
+    {
+      "path": "res://data/levels/hard_31.json"
+    },
+    {
+      "path": "res://data/levels/hard_35.json"
+    },
+    {
+      "path": "res://data/levels/hard_06.json"
+    },
+    {
+      "path": "res://data/levels/hard_10.json"
+    },
+    {
+      "path": "res://data/levels/hard_25.json"
+    },
+    {
+      "path": "res://data/levels/hard_26.json"
+    },
+    {
+      "path": "res://data/levels/hard_28.json"
+    },
+    {
+      "path": "res://data/levels/hard_32.json"
+    },
+    {
+      "path": "res://data/levels/hard_07.json"
+    },
+    {
+      "path": "res://data/levels/hard_20.json"
+    },
+    {
+      "path": "res://data/levels/hard_37.json"
+    },
+    {
+      "path": "res://data/levels/hard_08.json"
+    },
+    {
+      "path": "res://data/levels/hard_13.json"
+    },
+    {
+      "path": "res://data/levels/hard_17.json"
+    },
+    {
+      "path": "res://data/levels/hard_23.json"
+    },
+    {
+      "path": "res://data/levels/hard_30.json"
+    },
+    {
+      "path": "res://data/levels/hard_36.json"
+    },
+    {
+      "path": "res://data/levels/hard_34.json"
+    },
+    {
+      "path": "res://data/levels/expert_01.json"
+    },
+    {
+      "path": "res://data/levels/expert_15.json"
+    },
+    {
+      "path": "res://data/levels/expert_19.json"
+    },
+    {
+      "path": "res://data/levels/expert_21.json"
+    },
+    {
+      "path": "res://data/levels/expert_31.json"
+    },
+    {
+      "path": "res://data/levels/expert_17.json"
+    },
+    {
+      "path": "res://data/levels/expert_10.json"
+    },
+    {
+      "path": "res://data/levels/expert_02.json"
+    },
+    {
+      "path": "res://data/levels/expert_09.json"
+    },
+    {
+      "path": "res://data/levels/expert_03.json"
+    },
+    {
+      "path": "res://data/levels/expert_30.json"
+    },
+    {
+      "path": "res://data/levels/expert_34.json"
+    },
+    {
+      "path": "res://data/levels/expert_13.json"
+    },
+    {
+      "path": "res://data/levels/expert_14.json"
+    },
+    {
+      "path": "res://data/levels/expert_18.json"
+    },
+    {
+      "path": "res://data/levels/expert_29.json"
+    },
+    {
+      "path": "res://data/levels/expert_37.json"
+    },
+    {
+      "path": "res://data/levels/expert_04.json"
+    },
+    {
+      "path": "res://data/levels/expert_27.json"
+    },
+    {
+      "path": "res://data/levels/expert_32.json"
+    },
+    {
+      "path": "res://data/levels/expert_05.json"
+    },
+    {
+      "path": "res://data/levels/expert_23.json"
+    },
+    {
+      "path": "res://data/levels/expert_25.json"
+    },
+    {
+      "path": "res://data/levels/expert_26.json"
+    },
+    {
+      "path": "res://data/levels/expert_35.json"
+    },
+    {
+      "path": "res://data/levels/expert_06.json"
+    },
+    {
+      "path": "res://data/levels/expert_28.json"
+    },
+    {
+      "path": "res://data/levels/expert_11.json"
+    },
+    {
+      "path": "res://data/levels/expert_12.json"
+    },
+    {
+      "path": "res://data/levels/expert_33.json"
+    },
+    {
+      "path": "res://data/levels/expert_24.json"
+    },
+    {
+      "path": "res://data/levels/expert_36.json"
+    },
+    {
+      "path": "res://data/levels/expert_07.json"
+    },
+    {
+      "path": "res://data/levels/expert_22.json"
+    },
+    {
+      "path": "res://data/levels/expert_20.json"
+    },
+    {
+      "path": "res://data/levels/expert_16.json"
+    },
+    {
+      "path": "res://data/levels/expert_08.json"
+    }
+  ],
+  "target_count": 150,
+  "version": 1
+}

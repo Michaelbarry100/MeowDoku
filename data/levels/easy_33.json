@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 320,
+    "singletons": 2,
+    "solver_nodes": 20
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 34,
+  "id": "easy_33",
+  "order": 38,
+  "regions": [
+    [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      2,
+      3,
+      3
+    ],
+    [
+      1,
+      1,
+      3,
+      3,
+      3
+    ],
+    [
+      1,
+      4,
+      3,
+      3,
+      3
+    ]
+  ],
+  "seed": "2106",
+  "size": 5,
+  "solution": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "title": "Honey Garden"
+}

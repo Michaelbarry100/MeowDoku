@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 314,
+    "singletons": 2,
+    "solver_nodes": 14
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 39,
+  "id": "easy_09",
+  "order": 16,
+  "regions": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      1,
+      3,
+      3
+    ],
+    [
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    [
+      2,
+      4,
+      3,
+      3,
+      3
+    ]
+  ],
+  "seed": "2000",
+  "size": 5,
+  "solution": [
+    4,
+    2,
+    0,
+    3,
+    1
+  ],
+  "title": "Peach Nook"
+}

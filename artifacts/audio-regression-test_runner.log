@@ -1,0 +1,55 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Application is named MeowDoku
+PASS: Rename preserves the previous desktop save directory
+PASS: Empty board is incomplete
+PASS: Empty board has no conflicts
+PASS: Known solution completes
+PASS: Missing cat prevents completion
+PASS: Exclusions do not count as cats
+PASS: Same row
+PASS: Same row remains incomplete
+PASS: Same column
+PASS: Same column remains incomplete
+PASS: Same region without touching
+PASS: Same region without touching remains incomplete
+PASS: Diagonal contact across regions
+PASS: Diagonal contact across regions remains incomplete
+PASS: Horizontal contact
+PASS: Horizontal contact remains incomplete
+PASS: Vertical contact
+PASS: Vertical contact remains incomplete
+PASS: Legal partial placement
+PASS: Legal partial placement remains incomplete
+PASS: App starts on menu
+PASS: Puzzle creates 25 cells
+PASS: Square board at (320, 640)
+PASS: Touch targets at (320, 640)
+PASS: Actions fit viewport at (320, 640) (button 624, canvas 640)
+PASS: Square board at (390, 844)
+PASS: Touch targets at (390, 844)
+PASS: Actions fit viewport at (390, 844) (button 828, canvas 844)
+PASS: Square board at (768, 1024)
+PASS: Touch targets at (768, 1024)
+PASS: Actions fit viewport at (768, 1024) (button 1008, canvas 1024)
+PASS: First tap places cat and counts move
+PASS: Second tap excludes
+PASS: Third tap clears
+PASS: Both conflicting cats are flagged
+PASS: Conflict UI names the violated row immediately
+PASS: Restart resets all state
+PASS: Solving through cell signals completes puzzle
+PASS: Completed board locks input
+PASS: Completion ignores further moves
+PASS: Restart unlocks completed board
+PASS: Out-of-bounds input is ignored safely
+PASS: Unsolvable level never becomes playable
+PASS: Level failure is explained and restart disabled
+PASS: Ambiguous level is rejected by default
+PASS: Explicit nonunique mode accepts solvable 4x4 level
+PASS: Generated level enters game through validation gate
+PASS: Grid supports configurable size
+PASS: Status uses configured cat count
+PASS: Generated board completes through real cell signals
+PASS: Menu navigation works
+RESULT: 52 checks, 0 failures

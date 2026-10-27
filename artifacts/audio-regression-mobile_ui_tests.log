@@ -1,0 +1,89 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Comfortable menu target: PlayButton
+PASS: Comfortable menu target: DailyButton
+PASS: Comfortable menu target: SettingsButton
+PASS: Comfortable menu target: LevelsButton
+PASS: Comfortable menu target: RulesButton
+PASS: Control exists: SettingsButton
+PASS: Menu opens settings
+PASS: Comfort switches apply immediately
+PASS: Comfort settings persist across reload
+PASS: Control exists: BackButton
+PASS: Control exists: RulesButton
+PASS: Menu opens tutorial
+PASS: Tutorial offers three practice cells
+PASS: Tutorial tap places a cat
+PASS: Tutorial tap marks X
+PASS: Reduced motion keeps cat still
+PASS: Control exists: BackButton
+PASS: Control exists: LevelsButton
+PASS: Menu opens level selection
+PASS: Next level starts locked
+PASS: Control exists: Level02Button
+PASS: Second level opens correctly
+PASS: Control exists: DailyButton
+PASS: Daily opens a date-seeded puzzle
+PASS: Daily is reproducible for the same local date
+PASS: Tapped cat has distinct selected state
+PASS: Invalid cats retain both symbol and border feedback
+PASS: Control exists: PauseButton
+PASS: Pause opens and suspends gameplay
+PASS: Paused board rejects input
+PASS: Control exists: PauseSettingsButton
+PASS: Pause settings opens above preserved puzzle
+PASS: Control exists: BackButton
+PASS: Settings back returns to pause preserving moves
+PASS: Control exists: ResumeButton
+PASS: Resume preserves puzzle
+PASS: Control exists: RulesButton
+PASS: Control exists: BackButton
+PASS: Control exists: ResumeButton
+PASS: In-game rules preserve puzzle
+PASS: Control exists: RestartButton
+PASS: Control exists: ConfirmRestartButton
+PASS: Restart clears selection and progress
+PASS: Winning opens victory screen
+PASS: Control exists: ModalRestartButton
+PASS: Victory replay resets game
+PASS: Square board at (320, 568)
+PASS: 48-unit cells at (320, 568)
+PASS: Actions inside safe content at (320, 568)
+PASS: Board fits width at (320, 568)
+PASS: Square board at (320, 640)
+PASS: 48-unit cells at (320, 640)
+PASS: Actions inside safe content at (320, 640)
+PASS: Board fits width at (320, 640)
+PASS: Square board at (390, 844)
+PASS: 48-unit cells at (390, 844)
+PASS: Actions inside safe content at (390, 844)
+PASS: Board fits width at (390, 844)
+PASS: Square board at (430, 932)
+PASS: 48-unit cells at (430, 932)
+PASS: Actions inside safe content at (430, 932)
+PASS: Board fits width at (430, 932)
+PASS: Square board at (768, 1024)
+PASS: 48-unit cells at (768, 1024)
+PASS: Actions inside safe content at (768, 1024)
+PASS: Board fits width at (768, 1024)
+PASS: Notch inset moves content below safe top
+PASS: Home-indicator inset preserves safe bottom
+PASS: Small-phone actions stay above home indicator
+PASS: Pause card respects simulated notch and home indicator
+PASS: Pause card fits smallest phone
+PASS: Victory card fits smallest phone
+PASS: Control exists: ModalRestartButton
+PASS: Small-phone menu has no horizontal overflow
+PASS: Control exists: ModalRestartButton
+PASS: Control exists: ConfirmRestartButton
+PASS: Pause restart works
+PASS: Control exists: ModalMenuButton
+PASS: Pause returns to main menu
+PASS: Normal screen transition finishes
+PASS: Cat success animation settles
+PASS: Reduced motion skips screen fade
+PASS: Real pointer event opens puzzle from menu
+PASS: Real pointer event opens pause
+PASS: Modal takes keyboard focus
+PASS: Real pointer event resumes game
+RESULT: 86 mobile UI checks, 0 failures

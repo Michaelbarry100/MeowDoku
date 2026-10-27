@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 530,
+    "singletons": 0,
+    "solver_nodes": 30
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "expert_16",
+  "order": 149,
+  "regions": [
+    [
+      2,
+      1,
+      4,
+      4,
+      0
+    ],
+    [
+      2,
+      1,
+      1,
+      4,
+      0
+    ],
+    [
+      2,
+      1,
+      4,
+      4,
+      3
+    ],
+    [
+      1,
+      1,
+      4,
+      3,
+      3
+    ],
+    [
+      1,
+      4,
+      4,
+      3,
+      3
+    ]
+  ],
+  "seed": "2025",
+  "size": 5,
+  "solution": [
+    4,
+    2,
+    0,
+    3,
+    1
+  ],
+  "title": "Rose Orchard"
+}

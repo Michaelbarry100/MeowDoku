@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 519,
+    "singletons": 0,
+    "solver_nodes": 19
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "expert_32",
+  "order": 133,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      2,
+      4,
+      0
+    ],
+    [
+      1,
+      2,
+      2,
+      4,
+      3
+    ],
+    [
+      4,
+      4,
+      2,
+      4,
+      3
+    ],
+    [
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  ],
+  "seed": "2076",
+  "size": 5,
+  "solution": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "title": "Velvet Porch"
+}

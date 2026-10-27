@@ -1,0 +1,180 @@
+WorkerThreadPool: 8 threads, 2 max low-priority.
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+TextServer: Added interface "Dummy"
+TextServer: Added interface "ICU / HarfBuzz / Graphite (Built-in)"
+Unrecognized output string "misc2" in mapping:
+030000000d0f00000202000000000000,Horipad O Nintendo Switch 2 Controller,a:b1,b:b0,back:b8,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b4,leftstick:b10,lefttrigger:b6,leftx:a0,lefty:a1,misc1:b13,misc2:b14,rightshoulder:b5,rightstick:b11,righttrigger:b7,rightx:a2,righty:a3,start:b9,x:b3,y:b2,platform:Windows,
+Unrecognized output string "misc2" in mapping:
+030000000d0f00009601000000000000,Horipad Steam,a:b0,b:b1,back:b10,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b12,leftshoulder:b6,leftstick:b13,lefttrigger:b8,leftx:a0,lefty:a1,misc2:b2,paddle1:b5,paddle2:b15,paddle3:b18,paddle4:b19,rightshoulder:b7,rightstick:b14,righttrigger:b9,rightx:a3,righty:a4,start:b11,x:b3,y:b4,platform:Windows,
+Unrecognized output string "misc2" in mapping:
+030000007e0500006920000000000000,Nintendo Switch 2 Pro Controller,a:b0,b:b1,back:b14,dpdown:b8,dpleft:b10,dpright:b9,dpup:b11,guide:b16,leftshoulder:b12,leftstick:b15,lefttrigger:b13,leftx:a0,lefty:a1~,misc1:b17,misc2:b20,paddle1:b18,paddle2:b19,rightshoulder:b4,rightstick:b7,righttrigger:b5,rightx:a2,righty:a3~,start:b6,x:b2,y:b3,platform:Windows,
+Using "default" pen tablet driver...
+
+TextServer: Primary interface set to: "ICU / HarfBuzz / Graphite (Built-in)".
+Loading resource: res://default_bus_layout.tres
+CORE API HASH: 937899573
+EDITOR API HASH: 1777164193
+Loading resource: res://tests/audio_tests.gd
+Loading resource: res://scenes/main.tscn
+Loading resource: res://scripts/main.gd
+Loading resource: res://scenes/main_menu.tscn
+Loading resource: res://scripts/main_menu.gd
+Loading resource: res://scenes/components/cat_portrait.tscn
+Loading resource: res://assets/cats/tuxedo.png
+Loading resource: res://.godot/imported/tuxedo.png-3487b0cd6cc0af6b2062849630cc9420.ctex
+Loading resource: res://assets/cats/cream.png
+Loading resource: res://.godot/imported/cream.png-6284bd954a2b0868dc24f90068991e43.ctex
+Loading resource: res://assets/cats/tabby.png
+Loading resource: res://.godot/imported/tabby.png-94acb373db02f8283b4a6c9f4e428606.ctex
+Loading resource: res://assets/cats/gray.png
+Loading resource: res://.godot/imported/gray.png-4b5dadc411b6f527d96fb8b6f3c47119.ctex
+Loading resource: res://assets/cats/rose.png
+Loading resource: res://.godot/imported/rose.png-e8a6add6df33202b0723b6a2f18e33eb.ctex
+Loading resource: res://resources/purr_theme.tres
+Loading resource: res://scenes/puzzle_screen.tscn
+Loading resource: res://scripts/puzzle_screen.gd
+Loading resource: res://scenes/grid_cell.tscn
+Loading resource: res://scripts/grid_cell.gd
+Loading resource: res://scenes/settings.tscn
+Loading resource: res://scripts/info_page.gd
+Loading resource: res://scenes/tutorial.tscn
+Loading resource: res://scenes/level_selection.tscn
+Loading resource: res://scenes/privacy.tscn
+Loading resource: res://scenes/pause_menu.tscn
+Loading resource: res://scripts/modal_page.gd
+Loading resource: res://scenes/victory.tscn
+Loading resource: res://scenes/rewarded_hint.tscn
+Loading resource: res://scripts/rewarded_hint_page.gd
+SceneTreeFTI: traversal method DEFAULT
+Loaded system CA certificates
+PASS: First-launch music and SFX enabled
+PASS: Music routed to Master
+PASS: SFX routed to Master
+PASS: Cat routed to Master
+Loading resource: res://audio/sfx/ui_soft_pop.wav
+Loading resource: res://.godot/imported/ui_soft_pop.wav-b440c15d667677566c76b1550b4152fa.sample
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+Loading resource: res://audio/sfx/tile_place.wav
+Loading resource: res://.godot/imported/tile_place.wav-a8270640dc02aafd9d3f9aa1b4f7851b.sample
+PASS: Actual nonempty imported audio: tile_place.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+Loading resource: res://audio/sfx/invalid_move.wav
+Loading resource: res://.godot/imported/invalid_move.wav-285a474b118753c450b2e8f1ebd625ad.sample
+PASS: Actual nonempty imported audio: invalid_move.wav
+Loading resource: res://audio/sfx/hint_chime.wav
+Loading resource: res://.godot/imported/hint_chime.wav-ad437c98a5ccbdd3d3dd88e41a90edbe.sample
+PASS: Actual nonempty imported audio: hint_chime.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: tile_place.wav
+Loading resource: res://audio/sfx/level_complete.wav
+Loading resource: res://.godot/imported/level_complete.wav-c1102c131f72ee6a11e6961d91f7d916.sample
+PASS: Actual nonempty imported audio: level_complete.wav
+PASS: Actual nonempty imported audio: hint_chime.wav
+Loading resource: res://audio/cats/cat_meow_01.ogg
+Loading resource: res://.godot/imported/cat_meow_01.ogg-dc5cfef1fe99582c3b1731569edcc92d.oggvorbisstr
+PASS: Actual nonempty imported audio: cat_meow_01.ogg
+Loading resource: res://audio/cats/cat_purr_loop.ogg
+Loading resource: res://.godot/imported/cat_purr_loop.ogg-073278b45be0fac61928d78c44ab1016.oggvorbisstr
+PASS: Actual nonempty imported audio: cat_purr_loop.ogg
+Loading resource: res://audio/cats/cat_happy_chirp.ogg
+Loading resource: res://.godot/imported/cat_happy_chirp.ogg-43b5cf12b2b68ab730faedf15eff75ef.oggvorbisstr
+PASS: Actual nonempty imported audio: cat_happy_chirp.ogg
+Loading resource: res://audio/music/bgm_cozy_piano.ogg
+Loading resource: res://.godot/imported/bgm_cozy_piano.ogg-c9970d79fd455c3716d0157c96163bae.oggvorbisstr
+PASS: Actual nonempty imported audio: bgm_cozy_piano.ogg
+PASS: Music loops
+PASS: Purr source loops for bounded playback
+PASS: Meow is one-shot
+WARNING: Audio asset unavailable; continuing without it: res://audio/does_not_exist.ogg
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:119)
+       [1] run (res://tests/audio_tests.gd:44)
+PASS: Missing asset cached safely without fake playback
+PASS: Missing-file diagnostics retained
+PASS: Unknown event fails safely
+PASS: Independent music gain
+PASS: Independent SFX gain
+PASS: Cat follows sound-effects volume
+PASS: Zero volume truly mutes music
+ERROR: Music starts and fades in
+   at: push_error (core/variant/variant_utility.cpp:1024)
+   GDScript backtrace (most recent call first):
+       [0] check (res://tests/audio_tests.gd:11)
+       [1] run (res://tests/audio_tests.gd:57)
+PASS: Music fades out and stops
+PASS: Restart during fade-out cancels stale stop callback
+PASS: Music actually crosses end and loops
+PASS: One-shot event: ui
+PASS: One-shot event: select
+PASS: One-shot event: place
+PASS: One-shot event: mark
+PASS: One-shot event: erase
+PASS: One-shot event: invalid
+PASS: One-shot event: hint
+PASS: One-shot event: undo
+PASS: One-shot event: restart
+PASS: One-shot event: complete
+PASS: One-shot event: unlock
+PASS: Meow plays with natural bounded pitch variation
+PASS: Cat cooldown prevents overlapping vocalizations
+PASS: Happy chirp after cooldown
+PASS: Soft purr starts
+PASS: Looping purr is time-bounded
+PASS: 100 same-time taps yield one placement sound
+PASS: Global voice pool bounds mixed overlapping events
+PASS: Completion feedback survives a busy pool
+PASS: Background pauses music and suppresses effects
+PASS: One interruption cannot clear another
+PASS: Resume never overrides user music mute
+PASS: SFX mute also mutes cats
+PASS: Master mute gates every owned bus
+PASS: Muted music and volume survive a fresh service load
+PASS: Old saves gain ON defaults without losing comfort settings
+PASS: Real menu button emits UI click
+PASS: Actual tile selection and cat placement hooks
+PASS: Rule conflict emits invalid feedback
+PASS: Actual X placement hook
+PASS: Actual X removal hook
+PASS: Actual undo hook
+PASS: Actual restart hook
+PASS: Successful saved hint hook
+PASS: Idle cat context emits a bounded purr
+PASS: Real completion emits celebration once
+PASS: New progression unlock emits chime once
+PASS: Redraw never repeats completion or unlock audio
+PASS: Separate touch-friendly volume controls
+PASS: Settings toggle applies and persists
+RESULT: 73 audio checks, 1 failures
+XR: Clearing primary interface
+XR: Removed interface "Native mobile"
+XR: Removed interface "OpenXR"
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2514)
+Leaked instance: AudioStreamWAV:9223372090776749512 - Resource path: 
+Leaked instance: AudioStreamWAV:9223372090978076107 - Resource path: 
+Leaked instance: AudioStreamWAV:9223372091380729293 - Resource path: 
+Leaked instance: AudioStreamWAV:9223372091582055886 - Resource path: 
+Leaked instance: AudioStreamOggVorbis:9223372092320253395 - Resource path: 
+Leaked instance: OggPacketSequence:9223372092236367316 - Resource path: res://audio/cats/cat_happy_chirp.ogg::OggPacketSequence_1yv4h
+Leaked instance: AudioStreamOggVorbis:9223372092571911637 - Resource path: 
+Leaked instance: OggPacketSequence:9223372092488025558 - Resource path: res://audio/music/bgm_cozy_piano.ogg::OggPacketSequence_gbchp
+Leaked instance: AudioStreamPlaybackOggVorbis:9223372093645653496
+Leaked instance: OggPacketSequencePlayback:9223372093662430713
+Leaked instance: AudioStreamPlaybackWAV:9223372112234809209
+Leaked instance: AudioStreamPlaybackWAV:9223372112251586426
+Leaked instance: AudioStreamPlaybackWAV:9223372112469690235
+Leaked instance: AudioStreamPlaybackWAV:9223372112587130754
+Leaked instance: AudioStreamPlaybackOggVorbis:9223372112603907971
+Leaked instance: OggPacketSequencePlayback:9223372112620685188
+Hint: Leaked instances typically happen when nodes are removed from the scene tree (with `remove_child()`) but not freed (with `free()` or `queue_free()`).
+ERROR: 2 resources still in use at exit.
+   at: clear (core/io/resource.cpp:790)
+Resource still in use: res://audio/cats/cat_happy_chirp.ogg::OggPacketSequence_1yv4h (OggPacketSequence)
+Resource still in use: res://audio/music/bgm_cozy_piano.ogg::OggPacketSequence_gbchp (OggPacketSequence)
+Orphan StringName: SFX (static: 0, total: 8)
+Orphan StringName: Music (static: 0, total: 2)
+Orphan StringName: Cat (static: 0, total: 2)
+StringName: 3 unclaimed string names at exit.

@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 412,
+    "singletons": 1,
+    "solver_nodes": 12
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 51,
+  "id": "medium_32",
+  "order": 48,
+  "regions": [
+    [
+      2,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      3,
+      3,
+      3,
+      3
+    ],
+    [
+      2,
+      3,
+      3,
+      3,
+      3
+    ],
+    [
+      2,
+      4,
+      3,
+      3,
+      3
+    ]
+  ],
+  "seed": "2103",
+  "size": 5,
+  "solution": [
+    2,
+    4,
+    0,
+    3,
+    1
+  ],
+  "title": "Cream Garden"
+}

@@ -1,0 +1,87 @@
+[gd_resource type="Theme" format=3 uid="uid://c1lsrii227x71"]
+
+[sub_resource type="StyleBoxFlat" id="disabled"]
+bg_color = Color(0.91, 0.89, 0.92, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+
+[sub_resource type="StyleBoxFlat" id="focus"]
+bg_color = Color(0, 0, 0, 0)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.35, 0.28, 0.47, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+
+[sub_resource type="StyleBoxFlat" id="hover"]
+content_margin_left = 18.0
+content_margin_top = 12.0
+content_margin_right = 18.0
+content_margin_bottom = 12.0
+bg_color = Color(0.83, 0.77, 0.92, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+
+[sub_resource type="StyleBoxFlat" id="normal"]
+content_margin_left = 18.0
+content_margin_top = 12.0
+content_margin_right = 18.0
+content_margin_bottom = 12.0
+bg_color = Color(0.91, 0.87, 0.96, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+shadow_color = Color(0.28, 0.23, 0.36, 0.09)
+shadow_size = 3
+shadow_offset = Vector2(0, 3)
+
+[sub_resource type="StyleBoxFlat" id="pressed"]
+content_margin_left = 18.0
+content_margin_top = 12.0
+content_margin_right = 18.0
+content_margin_bottom = 12.0
+bg_color = Color(0.85, 0.79, 0.92, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+
+[sub_resource type="StyleBoxFlat" id="card"]
+content_margin_left = 20.0
+content_margin_top = 20.0
+content_margin_right = 20.0
+content_margin_bottom = 20.0
+bg_color = Color(1, 0.99, 0.97, 1)
+corner_radius_top_left = 24
+corner_radius_top_right = 24
+corner_radius_bottom_right = 24
+corner_radius_bottom_left = 24
+shadow_color = Color(0.28, 0.23, 0.36, 0.07)
+shadow_size = 8
+shadow_offset = Vector2(0, 4)
+
+[resource]
+default_font_size = 17
+Button/colors/font_color = Color(0.25, 0.23, 0.33, 1)
+Button/colors/font_disabled_color = Color(0.43, 0.41, 0.47, 1)
+Button/colors/font_focus_color = Color(0.25, 0.23, 0.33, 1)
+Button/colors/font_hover_color = Color(0.25, 0.23, 0.33, 1)
+Button/colors/font_pressed_color = Color(0.25, 0.23, 0.33, 1)
+Button/styles/disabled = SubResource("disabled")
+Button/styles/focus = SubResource("focus")
+Button/styles/hover = SubResource("hover")
+Button/styles/normal = SubResource("normal")
+Button/styles/pressed = SubResource("pressed")
+HBoxContainer/constants/separation = 12
+Label/colors/font_color = Color(0.25, 0.23, 0.33, 1)
+PanelContainer/styles/panel = SubResource("card")
+VBoxContainer/constants/separation = 12

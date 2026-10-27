@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 312,
+    "singletons": 2,
+    "solver_nodes": 12
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 71,
+  "id": "easy_23",
+  "order": 10,
+  "regions": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    [
+      2,
+      2,
+      4,
+      2,
+      3
+    ]
+  ],
+  "seed": "2072",
+  "size": 5,
+  "solution": [
+    0,
+    3,
+    1,
+    4,
+    2
+  ],
+  "title": "Cream Porch"
+}

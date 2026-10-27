@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 315,
+    "singletons": 2,
+    "solver_nodes": 15
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 55,
+  "id": "easy_35",
+  "order": 30,
+  "regions": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      4,
+      2,
+      2
+    ]
+  ],
+  "seed": "2118",
+  "size": 5,
+  "solution": [
+    4,
+    1,
+    3,
+    0,
+    2
+  ],
+  "title": "Lilac Cove"
+}

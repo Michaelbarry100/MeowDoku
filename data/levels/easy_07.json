@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 315.0,
+    "singletons": 2.0,
+    "solver_nodes": 15.0
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 51.0,
+  "id": "easy_07",
+  "order": 23,
+  "regions": [
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    [
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      1.0
+    ],
+    [
+      2.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    [
+      2.0,
+      2.0,
+      3.0,
+      1.0,
+      1.0
+    ],
+    [
+      2.0,
+      2.0,
+      2.0,
+      1.0,
+      4.0
+    ]
+  ],
+  "seed": "1053",
+  "size": 5.0,
+  "solution": [
+    1.0,
+    3.0,
+    0.0,
+    2.0,
+    4.0
+  ],
+  "title": "Sky Window"
+}

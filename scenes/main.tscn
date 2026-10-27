@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://bchwofurv7msb"]
+
+[ext_resource type="Script" uid="uid://0ub35kgyc4hb" path="res://scripts/main.gd" id="1"]
+
+[node name="MeowDoku" type="Control" unique_id=589365813]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1")

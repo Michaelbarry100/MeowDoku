@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 416,
+    "singletons": 1,
+    "solver_nodes": 16
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 62,
+  "id": "medium_09",
+  "order": 70,
+  "regions": [
+    [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      3,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      4,
+      2,
+      2
+    ]
+  ],
+  "seed": "2006",
+  "size": 5,
+  "solution": [
+    3,
+    1,
+    4,
+    0,
+    2
+  ],
+  "title": "Honey Nook"
+}

@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 516.0,
+    "singletons": 0.0,
+    "solver_nodes": 16.0
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 250.0,
+  "id": "expert_03",
+  "order": 123,
+  "regions": [
+    [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      3.0,
+      1.0,
+      2.0,
+      2.0,
+      4.0
+    ],
+    [
+      3.0,
+      1.0,
+      2.0,
+      2.0,
+      4.0
+    ],
+    [
+      4.0,
+      4.0,
+      4.0,
+      4.0,
+      4.0
+    ]
+  ],
+  "seed": "1038",
+  "size": 5.0,
+  "solution": [
+    4.0,
+    1.0,
+    3.0,
+    0.0,
+    2.0
+  ],
+  "title": "Lunar Lilac"
+}

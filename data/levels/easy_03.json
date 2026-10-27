@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 311.0,
+    "singletons": 2.0,
+    "solver_nodes": 11.0
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 250.0,
+  "id": "easy_03",
+  "order": 3,
+  "regions": [
+    [
+      4.0,
+      4.0,
+      4.0,
+      0.0,
+      4.0
+    ],
+    [
+      4.0,
+      1.0,
+      4.0,
+      4.0,
+      4.0
+    ],
+    [
+      4.0,
+      4.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      3.0,
+      4.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      3.0,
+      4.0,
+      4.0,
+      2.0,
+      2.0
+    ]
+  ],
+  "seed": "1118",
+  "size": 5.0,
+  "solution": [
+    3.0,
+    1.0,
+    4.0,
+    0.0,
+    2.0
+  ],
+  "title": "Peach Picnic"
+}

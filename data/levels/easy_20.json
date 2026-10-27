@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 314,
+    "singletons": 2,
+    "solver_nodes": 14
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 42,
+  "id": "easy_20",
+  "order": 18,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      2,
+      0,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    [
+      0,
+      4,
+      0,
+      3,
+      3
+    ]
+  ],
+  "seed": "2055",
+  "size": 5,
+  "solution": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "title": "Honey Trail"
+}

@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 416.0,
+    "singletons": 1.0,
+    "solver_nodes": 16.0
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 38.0,
+  "id": "medium_07",
+  "order": 68,
+  "regions": [
+    [
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      0.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0
+    ],
+    [
+      0.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0
+    ],
+    [
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      2.0
+    ],
+    [
+      3.0,
+      3.0,
+      3.0,
+      4.0,
+      2.0
+    ]
+  ],
+  "seed": "1022",
+  "size": 5.0,
+  "solution": [
+    0.0,
+    2.0,
+    4.0,
+    1.0,
+    3.0
+  ],
+  "title": "Bluebell Bend"
+}

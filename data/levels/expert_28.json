@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 523,
+    "singletons": 0,
+    "solver_nodes": 23
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "expert_28",
+  "order": 140,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      2,
+      2
+    ],
+    [
+      1,
+      1,
+      0,
+      2,
+      4
+    ],
+    [
+      4,
+      1,
+      0,
+      2,
+      4
+    ],
+    [
+      4,
+      3,
+      3,
+      3,
+      4
+    ],
+    [
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  ],
+  "seed": "2059",
+  "size": 5,
+  "solution": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "title": "Peach Hollow"
+}

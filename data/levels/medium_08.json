@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 416.0,
+    "singletons": 1.0,
+    "solver_nodes": 16.0
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 78.0,
+  "id": "medium_08",
+  "order": 69,
+  "regions": [
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      2.0,
+      1.0
+    ],
+    [
+      0.0,
+      0.0,
+      2.0,
+      1.0,
+      1.0
+    ],
+    [
+      3.0,
+      2.0,
+      2.0,
+      2.0,
+      1.0
+    ],
+    [
+      3.0,
+      2.0,
+      2.0,
+      4.0,
+      1.0
+    ]
+  ],
+  "seed": "1068",
+  "size": 5.0,
+  "solution": [
+    1.0,
+    4.0,
+    2.0,
+    0.0,
+    3.0
+  ],
+  "title": "Clover Corner"
+}

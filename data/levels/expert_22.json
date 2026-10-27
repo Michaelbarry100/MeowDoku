@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 528,
+    "singletons": 0,
+    "solver_nodes": 28
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "expert_22",
+  "order": 147,
+  "regions": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      4,
+      4,
+      4,
+      1
+    ],
+    [
+      3,
+      3,
+      2,
+      4,
+      1
+    ],
+    [
+      3,
+      2,
+      2,
+      4,
+      4
+    ],
+    [
+      3,
+      3,
+      2,
+      4,
+      4
+    ]
+  ],
+  "seed": "2038",
+  "size": 5,
+  "solution": [
+    1,
+    4,
+    2,
+    0,
+    3
+  ],
+  "title": "Clover Window"
+}

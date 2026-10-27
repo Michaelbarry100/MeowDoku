@@ -1,0 +1,255 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: 3D game scene has a Node3D root
+PASS: Real orthographic Camera3D is active
+PASS: Board contains sixteen individual 3D tiles
+PASS: Real directional shadow light enabled
+PASS: WorldEnvironment provides ambient lighting
+PASS: Production 4x4 level admitted as unique
+PASS: No Sprite3D impostors or billboards
+PASS: No 2D sprite board or cats
+PASS: Rotated 3D strokes preserve their intended length and thickness
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Tile has actual geometric thickness
+PASS: Tile uses lit PBR material
+PASS: Camera physics ray hits the correct tile
+PASS: Missed ray does not select a cell
+PASS: Pointer ray places a cat
+PASS: Real 3D cat exactly reflects logic state
+PASS: Cat consists of actual body/face/tail mesh geometry
+PASS: Procedural cat polygon budget is bounded
+MODEL: 5792 triangles; 7 material surfaces per cat
+PASS: Raycasting the cat face selects its own tile
+PASS: Conflicting cats show actual 3D exclamation markers
+PASS: HUD explains invalid row immediately
+PASS: Second tap replaces cat with raised 3D X
+PASS: Render state matches board after exclusion
+PASS: Undo restores actual cat geometry
+PASS: Restart clears logical and 3D state
+PASS: Touch tap uses raycast and changes one cell once
+PASS: Emulated mouse event cannot double-count a touch
+PASS: Dragging across the board does not create a tap
+PASS: Quality button disables shadows without selecting tiles
+PASS: Low-power mode also stops idle animation
+PASS: Reduced-motion toggle stops cat movement
+PASS: Suspended game ignores queued selections
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 568)
+PASS: Portrait resize keeps ray hits correct
+PASS: Projected tile touch targets at least 48 units at (320, 568)
+PASS: Overlay controls fit portrait viewport
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (320, 640)
+PASS: Portrait resize keeps ray hits correct
+PASS: Projected tile touch targets at least 48 units at (320, 640)
+PASS: Overlay controls fit portrait viewport
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (390, 844)
+PASS: Portrait resize keeps ray hits correct
+PASS: Projected tile touch targets at least 48 units at (390, 844)
+PASS: Overlay controls fit portrait viewport
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (430, 932)
+PASS: Portrait resize keeps ray hits correct
+PASS: Projected tile touch targets at least 48 units at (430, 932)
+PASS: Overlay controls fit portrait viewport
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Tile target stays outside HUD at (768, 1024)
+PASS: Portrait resize keeps ray hits correct
+PASS: Projected tile touch targets at least 48 units at (768, 1024)
+PASS: Overlay controls fit portrait viewport
+PASS: Real raycast placements complete all puzzle rules
+PASS: Completed 3D board and HUD agree
+BOARD_RENDER: 60.0 FPS; draw calls 0; primitives 0
+PASS: Victory rejects further tile placements
+RENDER: 60.0 FPS; draw calls 0; primitives 0
+RESULT: 249 3D checks, 0 failures

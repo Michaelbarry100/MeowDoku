@@ -1,0 +1,64 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Debug and release factory profiles are separate; old debug progress stays intact
+PASS: Development factory chooses an uninitialized offline mock
+PASS: No initialization before local opt-in
+PASS: Consent-denied request cannot grant a reward
+PASS: Three free hints per puzzle
+PASS: Free hint works without any advertising
+PASS: Free hint works without any advertising
+PASS: Free hint works without any advertising
+PASS: Undo does not replenish free hints
+PASS: Restart does not replenish free hints
+PASS: Exhaustion offers optional hints without applying a move
+PASS: No hints or ads never prevents manual play
+PASS: Another garden has its own free allowance
+PASS: Failed persistence rolls back hint placement and allowance together
+PASS: Explicit local opt-in enables mock availability
+PASS: Requesting and opening do not reward
+PASS: Only one presentation can be active
+PASS: Shaped but unverified reward callback is rejected
+PASS: Unmatched callback is rejected
+PASS: Verified mock completion earns exactly one sandbox hint
+PASS: Duplicate reward/close callbacks do not duplicate hint
+PASS: Persistent receipt ledger rejects duplicate transaction
+PASS: Mock cannot credit production balance or receipt ledger
+PASS: Skipped ad gives no reward
+PASS: Failed ad gives no reward
+PASS: Unavailable ad leaves balance unchanged
+PASS: Duplicate open event cannot reward
+PASS: No new ad request while suspended
+PASS: Verified callback during suspension is queued, not fabricated from resume
+PASS: Background time does not time out a verified pending callback
+PASS: Returning processes verified callback exactly once
+PASS: Duplicate resume does not duplicate reward
+PASS: Suspending/resuming without earned callback never rewards
+PASS: Cancellation never invents reward
+PASS: Skipped ad during suspension gives no reward on resume
+PASS: Dismiss without reward waits without credit
+PASS: Verified callback after generic dismiss can settle once
+PASS: Timed-out request rejects late callbacks
+PASS: Stalled display times out with no reward
+PASS: Revoking opt-in cancels active request and rejects stale callbacks
+PASS: Each sandbox credit has one unique durable receipt
+PASS: Privacy withdrawal takes effect even if preference save fails
+PASS: Withdrawal retains a reward already verified before the choice changed
+PASS: Already-verified reward settles once despite later opt-out
+PASS: Reloading sandbox retains balance and duplicate protection
+PASS: Release-mode inventory refuses all simulated credits
+PASS: Production-mode inventory never loads mock credits
+PASS: Development provider cannot run in release-mode service
+PASS: Live SDK initialization is fail-closed even with claimed consent
+PASS: Forged live provider cannot mint production rewards in development
+PASS: Failure to open is not rewarded
+PASS: Debug inventory does not spend or expose a live balance
+PASS: Spending a simulated hint changes sandbox only, not production bank
+PASS: Inventory/allowance persist across service restart
+PASS: Hint spending and board survive reloading
+PASS: Relaunch does not resurrect ad presentation or grant pending rewards
+PASS: Cannot show a test ad when its reward wallet is unavailable
+PASS: Version 1 migrates to version 2 without losing progress or minting credits
+PASS: Migration preserves existing boards, undo snapshots and completion stars
+PASS: Unknown future inventory version is preserved without overwriting
+PASS: Corrupt sandbox fails closed instead of clearing duplicate history
+RESULT: 61 rewarded-ad/inventory checks, 0 failures

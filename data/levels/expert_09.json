@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 514,
+    "singletons": 0,
+    "solver_nodes": 14
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "expert_09",
+  "order": 122,
+  "regions": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      4
+    ],
+    [
+      2,
+      3,
+      3,
+      3,
+      4
+    ],
+    [
+      2,
+      3,
+      3,
+      3,
+      4
+    ],
+    [
+      2,
+      3,
+      4,
+      4,
+      4
+    ]
+  ],
+  "seed": "2002",
+  "size": 5,
+  "solution": [
+    1,
+    3,
+    0,
+    2,
+    4
+  ],
+  "title": "Lilac Nook"
+}

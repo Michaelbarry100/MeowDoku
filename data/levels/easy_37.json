@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 314,
+    "singletons": 2,
+    "solver_nodes": 14
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 93,
+  "id": "easy_37",
+  "order": 22,
+  "regions": [
+    [
+      1,
+      1,
+      0,
+      2,
+      2
+    ],
+    [
+      1,
+      1,
+      3,
+      2,
+      2
+    ],
+    [
+      1,
+      3,
+      3,
+      3,
+      2
+    ],
+    [
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      3,
+      4,
+      2
+    ]
+  ],
+  "seed": "2124",
+  "size": 5,
+  "solution": [
+    2,
+    0,
+    4,
+    1,
+    3
+  ],
+  "title": "Honey Cove"
+}

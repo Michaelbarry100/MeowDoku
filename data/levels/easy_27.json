@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 316,
+    "singletons": 2,
+    "solver_nodes": 16
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 52,
+  "id": "easy_27",
+  "order": 32,
+  "regions": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      3,
+      1
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "seed": "2091",
+  "size": 5,
+  "solution": [
+    2,
+    4,
+    1,
+    3,
+    0
+  ],
+  "title": "Lilac Arbor"
+}

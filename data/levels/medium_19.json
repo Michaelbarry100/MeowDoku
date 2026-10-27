@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 415,
+    "singletons": 1,
+    "solver_nodes": 15
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 41,
+  "id": "medium_19",
+  "order": 63,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      1,
+      0,
+      2,
+      2,
+      3
+    ],
+    [
+      1,
+      4,
+      2,
+      2,
+      3
+    ]
+  ],
+  "seed": "2050",
+  "size": 5,
+  "solution": [
+    3,
+    0,
+    2,
+    4,
+    1
+  ],
+  "title": "Mint Trail"
+}

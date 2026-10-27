@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 419,
+    "singletons": 1,
+    "solver_nodes": 19
+  },
+  "difficulty": "Hard",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 80,
+  "id": "hard_31",
+  "order": 96,
+  "regions": [
+    [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      1,
+      3,
+      3
+    ],
+    [
+      2,
+      4,
+      1,
+      3,
+      3
+    ]
+  ],
+  "seed": "2070",
+  "size": 5,
+  "solution": [
+    4,
+    2,
+    0,
+    3,
+    1
+  ],
+  "title": "Mint Porch"
+}

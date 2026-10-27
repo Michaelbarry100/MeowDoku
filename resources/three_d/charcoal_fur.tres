@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3]
+[resource]
+resource_name = "Tuxedo charcoal fur"
+albedo_color = Color(0.11, 0.115, 0.145, 1)
+roughness = 0.72
+metallic_specular = 0.32

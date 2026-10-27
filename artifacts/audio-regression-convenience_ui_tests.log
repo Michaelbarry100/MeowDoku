@@ -1,0 +1,55 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Control exists: LevelsButton
+PASS: Initial unlocked and locked levels distinguished
+PASS: Control exists: HardGroupButton
+PASS: Difficulty group filters locked hard levels
+PASS: Navigation cannot bypass level lock
+PASS: Control exists: PlayButton
+PASS: Player can place X
+PASS: Control exists: UndoButton
+PASS: Undo X restores previous cat
+PASS: Control exists: UndoButton
+PASS: Undo placement restores empty cell
+PASS: Control exists: RestartButton
+PASS: Restart requires confirmation before clearing
+PASS: Control exists: CancelRestartButton
+PASS: Cancel keeps exact progress
+PASS: Control exists: PauseButton
+PASS: Control exists: ModalRestartButton
+PASS: Control exists: CancelRestartButton
+PASS: Cancel from pause returns to pause
+PASS: Control exists: ResumeButton
+PASS: Control exists: RestartButton
+PASS: Control exists: ConfirmRestartButton
+PASS: Confirmed restart clears attempt
+PASS: Control exists: HintButton
+PASS: Hint corrects wrong cat safely
+PASS: Control exists: UndoButton
+PASS: Hint undo preserves usage count
+PASS: Menu advertises resumable puzzle
+PASS: Control exists: SettingsButton
+PASS: Control exists: BackButton
+PASS: Control exists: PlayButton
+PASS: Screen changes preserve cats, X marks and counters
+PASS: Versioned settings survive app reopening
+PASS: Control exists: PlayButton
+PASS: Closing and reopening app resumes exact unfinished puzzle
+PASS: Control exists: UndoButton
+PASS: Undo history survives full app reopening
+PASS: Control exists: RestartButton
+PASS: Control exists: ConfirmRestartButton
+PASS: Victory saves first-clear reward
+PASS: Victory unlocks next campaign level
+PASS: Control exists: NextButton
+PASS: Next Level opens next unlocked puzzle
+PASS: Replay completion cannot duplicate stars
+PASS: Control exists: ModalRestartButton
+PASS: Victory Replay starts fresh attempt
+PASS: Control exists: DailyButton
+PASS: Control exists: PlayButton
+PASS: Daily selection and progress survive app restart
+PASS: Reward ledger survives app restart
+PASS: Control exists: HintButton
+PASS: Hint feedback and convenience controls fit smallest phone
+RESULT: 52 convenience UI checks, 0 failures

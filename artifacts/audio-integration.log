@@ -1,0 +1,152 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Application is named MeowDoku
+PASS: Rename preserves the previous desktop save directory
+PASS: Empty board is incomplete
+PASS: Empty board has no conflicts
+PASS: Known solution completes
+PASS: Missing cat prevents completion
+PASS: Exclusions do not count as cats
+PASS: Same row
+PASS: Same row remains incomplete
+PASS: Same column
+PASS: Same column remains incomplete
+PASS: Same region without touching
+PASS: Same region without touching remains incomplete
+PASS: Diagonal contact across regions
+PASS: Diagonal contact across regions remains incomplete
+PASS: Horizontal contact
+PASS: Horizontal contact remains incomplete
+PASS: Vertical contact
+PASS: Vertical contact remains incomplete
+PASS: Legal partial placement
+PASS: Legal partial placement remains incomplete
+WARNING: ran out of packets in stream
+   at: _mix_frames_vorbis (modules/vorbis/audio_stream_ogg_vorbis.cpp:151)
+   GDScript backtrace (most recent call first):
+       [0] refresh_music (res://scripts/audio_manager.gd:192)
+       [1] play_music (res://scripts/audio_manager.gd:166)
+       [2] _ready (res://scripts/main.gd:19)
+       [3] run (res://tests/test_runner.gd:46)
+ERROR: Condition "mixed < 0" is true. Returning: 0
+   at: _mix_internal (modules/vorbis/audio_stream_ogg_vorbis.cpp:61)
+   GDScript backtrace (most recent call first):
+       [0] refresh_music (res://scripts/audio_manager.gd:192)
+       [1] play_music (res://scripts/audio_manager.gd:166)
+       [2] _ready (res://scripts/main.gd:19)
+       [3] run (res://tests/test_runner.gd:46)
+ERROR: Condition "page_cursor >= ogg_packet_sequence->page_data.size()" is true. Returning: false
+   at: next_ogg_packet (modules/ogg/ogg_packet_sequence.cpp:140)
+WARNING: ran out of packets in stream
+   at: _mix_frames_vorbis (modules/vorbis/audio_stream_ogg_vorbis.cpp:151)
+ERROR: Condition "mixed < 0" is true. Returning: 0
+   at: _mix_internal (modules/vorbis/audio_stream_ogg_vorbis.cpp:61)
+ERROR: Condition "page_cursor >= ogg_packet_sequence->page_data.size()" is true. Returning: false
+   at: next_ogg_packet (modules/ogg/ogg_packet_sequence.cpp:140)
+WARNING: ran out of packets in stream
+   at: _mix_frames_vorbis (modules/vorbis/audio_stream_ogg_vorbis.cpp:151)
+ERROR: Condition "mixed < 0" is true. Returning: 0
+   at: _mix_internal (modules/vorbis/audio_stream_ogg_vorbis.cpp:61)
+ERROR: Condition "page_cursor >= ogg_packet_sequence->page_data.size()" is true. Returning: false
+   at: next_ogg_packet (modules/ogg/ogg_packet_sequence.cpp:140)
+WARNING: ran out of packets in stream
+   at: _mix_frames_vorbis (modules/vorbis/audio_stream_ogg_vorbis.cpp:151)
+ERROR: Condition "mixed < 0" is true. Returning: 0
+   at: _mix_internal (modules/vorbis/audio_stream_ogg_vorbis.cpp:61)
+ERROR: Condition "page_cursor >= ogg_packet_sequence->page_data.size()" is true. Returning: false
+   at: next_ogg_packet (modules/ogg/ogg_packet_sequence.cpp:140)
+WARNING: ran out of packets in stream
+   at: _mix_frames_vorbis (modules/vorbis/audio_stream_ogg_vorbis.cpp:151)
+ERROR: Condition "mixed < 0" is true. Returning: 0
+   at: _mix_internal (modules/vorbis/audio_stream_ogg_vorbis.cpp:61)
+PASS: App starts on menu
+WARNING: Audio asset unavailable; continuing without it: res://audio/sfx/ui_soft_pop.wav
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_sfx (res://scripts/audio_manager.gd:231)
+       [2] ui_pressed (res://scripts/audio_manager.gd:86)
+       [3] run (res://tests/test_runner.gd:49)
+PASS: Puzzle creates 25 cells
+PASS: Square board at (320, 640)
+PASS: Touch targets at (320, 640)
+PASS: Actions fit viewport at (320, 640) (button 624, canvas 640)
+PASS: Square board at (390, 844)
+PASS: Touch targets at (390, 844)
+PASS: Actions fit viewport at (390, 844) (button 828, canvas 844)
+PASS: Square board at (768, 1024)
+PASS: Touch targets at (768, 1024)
+PASS: Actions fit viewport at (768, 1024) (button 1008, canvas 1024)
+WARNING: Audio asset unavailable; continuing without it: res://audio/sfx/tile_place.wav
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_sfx (res://scripts/audio_manager.gd:231)
+       [2] on_cell_requested (res://scripts/puzzle_screen.gd:146)
+       [3] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [4] run (res://tests/test_runner.gd:71)
+WARNING: Audio asset unavailable; continuing without it: res://audio/cats/cat_meow_01.ogg
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_cat (res://scripts/audio_manager.gd:248)
+       [2] on_cell_requested (res://scripts/puzzle_screen.gd:148)
+       [3] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [4] run (res://tests/test_runner.gd:71)
+PASS: First tap places cat and counts move
+PASS: Second tap excludes
+PASS: Third tap clears
+WARNING: Audio asset unavailable; continuing without it: res://audio/sfx/invalid_move.wav
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_sfx (res://scripts/audio_manager.gd:231)
+       [2] on_cell_requested (res://scripts/puzzle_screen.gd:144)
+       [3] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [4] run (res://tests/test_runner.gd:78)
+PASS: Both conflicting cats are flagged
+PASS: Conflict UI names the violated row immediately
+PASS: Restart resets all state
+WARNING: Audio asset unavailable; continuing without it: res://audio/cats/cat_happy_chirp.ogg
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_cat (res://scripts/audio_manager.gd:248)
+       [2] on_cell_requested (res://scripts/puzzle_screen.gd:148)
+       [3] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [4] run (res://tests/test_runner.gd:88)
+WARNING: Audio asset unavailable; continuing without it: res://audio/sfx/hint_chime.wav
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_sfx (res://scripts/audio_manager.gd:231)
+       [2] persist_current (res://scripts/main.gd:83)
+       [3] sync_session (res://scripts/puzzle_screen.gd:184)
+       [4] on_cell_requested (res://scripts/puzzle_screen.gd:151)
+       [5] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [6] run (res://tests/test_runner.gd:88)
+WARNING: Audio asset unavailable; continuing without it: res://audio/sfx/level_complete.wav
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:99)
+       [1] play_sfx (res://scripts/audio_manager.gd:231)
+       [2] update_board (res://scripts/puzzle_screen.gd:221)
+       [3] sync_session (res://scripts/puzzle_screen.gd:185)
+       [4] on_cell_requested (res://scripts/puzzle_screen.gd:151)
+       [5] <anonymous lambda> (res://scripts/grid_cell.gd:26)
+       [6] run (res://tests/test_runner.gd:88)
+PASS: Solving through cell signals completes puzzle
+PASS: Completed board locks input
+PASS: Completion ignores further moves
+PASS: Restart unlocks completed board
+PASS: Out-of-bounds input is ignored safely
+PASS: Unsolvable level never becomes playable
+PASS: Level failure is explained and restart disabled
+PASS: Ambiguous level is rejected by default
+PASS: Explicit nonunique mode accepts solvable 4x4 level
+PASS: Generated level enters game through validation gate
+PASS: Grid supports configurable size
+PASS: Status uses configured cat count
+PASS: Generated board completes through real cell signals
+PASS: Menu navigation works
+RESULT: 52 checks, 0 failures

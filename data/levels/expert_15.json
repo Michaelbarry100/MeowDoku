@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 424,
+    "singletons": 1,
+    "solver_nodes": 24
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 64,
+  "id": "expert_15",
+  "order": 115,
+  "regions": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      3,
+      3,
+      3
+    ],
+    [
+      0,
+      0,
+      4,
+      3,
+      3
+    ]
+  ],
+  "seed": "2023",
+  "size": 5,
+  "solution": [
+    0,
+    3,
+    1,
+    4,
+    2
+  ],
+  "title": "Cream Orchard"
+}

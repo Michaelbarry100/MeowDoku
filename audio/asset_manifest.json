@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "filename": "audio/music/bgm_cozy_piano.ogg",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": true,
+      "sha256": "ca21e5db9ffe7149a40f05c2f99aa9725f8ff6c13a690612e0cdf57a9043adfc"
+    },
+    {
+      "filename": "audio/cats/cat_meow_01.ogg",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "a416a8ec0d9de73faf7cb2c1ad0b2fb09df9ef81c638f6a81b13fa81f9cacdd2"
+    },
+    {
+      "filename": "audio/cats/cat_purr_loop.ogg",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": true,
+      "sha256": "810189ba033972b4bfe2219154e5423cc5ace746aa08024bba8998ac7bf70c02"
+    },
+    {
+      "filename": "audio/cats/cat_happy_chirp.ogg",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "53033200a4cac954230086680e1d04e3d256804b53734d919376a1ceb742b3f3"
+    },
+    {
+      "filename": "audio/sfx/ui_soft_pop.wav",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "7a14ee3f8ea3166a57f7a5d0d8b1a387ab215ee0aff9046ef15f3da6e7af84ee"
+    },
+    {
+      "filename": "audio/sfx/tile_place.wav",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "200b55a584777e9f0d744d6b0dfb90a1c5c4fb051b459dfc43edc98a544d03ff"
+    },
+    {
+      "filename": "audio/sfx/hint_chime.wav",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "93651b53d6fd927ec246306bfaf2e491d5a8cf2bc6502bf51adc665f15e50b13"
+    },
+    {
+      "filename": "audio/sfx/level_complete.wav",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "aa1cd6ca4602f8ab8b03c0cfd1f9f1f5d3d1fd4ee8a95a8c149a1f8b58b82a30"
+    },
+    {
+      "filename": "audio/sfx/invalid_move.wav",
+      "creator": "Original MeowDoku procedural composition and synthesis",
+      "source": "tools/generate_audio.py",
+      "license": "CC0-1.0",
+      "attribution_required": false,
+      "record": "audio/LICENSE-CC0.txt",
+      "loop": false,
+      "sha256": "f9735ff882ecc2aa082145146452e65836e770c01d2bc0cc0f172bbbddc88bf6"
+    }
+  ]
+}

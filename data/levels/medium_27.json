@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 413,
+    "singletons": 1,
+    "solver_nodes": 13
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 74,
+  "id": "medium_27",
+  "order": 49,
+  "regions": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      3,
+      4,
+      2
+    ]
+  ],
+  "seed": "2092",
+  "size": 5,
+  "solution": [
+    0,
+    2,
+    4,
+    1,
+    3
+  ],
+  "title": "Cream Arbor"
+}

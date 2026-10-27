@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 411,
+    "singletons": 1,
+    "solver_nodes": 11
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 250,
+  "id": "medium_37",
+  "order": 41,
+  "regions": [
+    [
+      1,
+      1,
+      1,
+      0,
+      4
+    ],
+    [
+      1,
+      1,
+      4,
+      4,
+      4
+    ],
+    [
+      3,
+      4,
+      4,
+      2,
+      2
+    ],
+    [
+      3,
+      4,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      4,
+      4,
+      2,
+      2
+    ]
+  ],
+  "seed": "2129",
+  "size": 5,
+  "solution": [
+    3,
+    1,
+    4,
+    0,
+    2
+  ],
+  "title": "Cloud Cove"
+}

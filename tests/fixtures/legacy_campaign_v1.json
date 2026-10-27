@@ -1,0 +1,2037 @@
+{
+  "version": 1,
+  "daily_seed": "purrfect-curated-v1",
+  "levels": [
+    {
+      "difficulty": "Easy",
+      "id": "easy_01",
+      "order": 1,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          3
+        ],
+        [
+          2,
+          4,
+          3,
+          3,
+          3
+        ],
+        [
+          4,
+          4,
+          3,
+          3,
+          3
+        ],
+        [
+          4,
+          4,
+          4,
+          3,
+          3
+        ]
+      ],
+      "seed": "original_01",
+      "size": 5,
+      "solution": [
+        1,
+        3,
+        0,
+        4,
+        2
+      ],
+      "title": "Pastel Garden"
+    },
+    {
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 59,
+      "id": "easy_02",
+      "order": 2,
+      "regions": [
+        [
+          3,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          3,
+          3,
+          3,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          4,
+          2,
+          2
+        ]
+      ],
+      "seed": "42",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        0,
+        2
+      ],
+      "title": "Cloudberry Path"
+    },
+    {
+      "curation": {
+        "score": 311,
+        "singletons": 2,
+        "solver_nodes": 11
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "easy_03",
+      "order": 3,
+      "regions": [
+        [
+          4,
+          4,
+          4,
+          0,
+          4
+        ],
+        [
+          4,
+          1,
+          4,
+          4,
+          4
+        ],
+        [
+          4,
+          4,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          4,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          4,
+          4,
+          2,
+          2
+        ]
+      ],
+      "seed": "1118",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        0,
+        2
+      ],
+      "title": "Peach Picnic"
+    },
+    {
+      "curation": {
+        "score": 312,
+        "singletons": 2,
+        "solver_nodes": 12
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 49,
+      "id": "easy_04",
+      "order": 4,
+      "regions": [
+        [
+          0,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          4,
+          2
+        ]
+      ],
+      "seed": "1067",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Mint Meadow"
+    },
+    {
+      "curation": {
+        "score": 314,
+        "singletons": 2,
+        "solver_nodes": 14
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 70,
+      "id": "easy_05",
+      "order": 5,
+      "regions": [
+        [
+          0,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          4,
+          3,
+          3
+        ]
+      ],
+      "seed": "1048",
+      "size": 5,
+      "solution": [
+        0,
+        3,
+        1,
+        4,
+        2
+      ],
+      "title": "Lilac Lane"
+    },
+    {
+      "curation": {
+        "score": 314,
+        "singletons": 2,
+        "solver_nodes": 14
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 54,
+      "id": "easy_06",
+      "order": 6,
+      "regions": [
+        [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          4,
+          3,
+          3
+        ]
+      ],
+      "seed": "1114",
+      "size": 5,
+      "solution": [
+        0,
+        3,
+        1,
+        4,
+        2
+      ],
+      "title": "Cream Cove"
+    },
+    {
+      "curation": {
+        "score": 315,
+        "singletons": 2,
+        "solver_nodes": 15
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 51,
+      "id": "easy_07",
+      "order": 7,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          4
+        ]
+      ],
+      "seed": "1053",
+      "size": 5,
+      "solution": [
+        1,
+        3,
+        0,
+        2,
+        4
+      ],
+      "title": "Sky Window"
+    },
+    {
+      "curation": {
+        "score": 315,
+        "singletons": 2,
+        "solver_nodes": 15
+      },
+      "difficulty": "Easy",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 58,
+      "id": "easy_08",
+      "order": 8,
+      "regions": [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          3,
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          3,
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          3,
+          3,
+          3,
+          4
+        ]
+      ],
+      "seed": "1109",
+      "size": 5,
+      "solution": [
+        2,
+        0,
+        3,
+        1,
+        4
+      ],
+      "title": "Petal Porch"
+    },
+    {
+      "curation": {
+        "score": 411,
+        "singletons": 1,
+        "solver_nodes": 11
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 83,
+      "id": "medium_01",
+      "order": 9,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        [
+          1,
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          4,
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "seed": "1045",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        2,
+        0
+      ],
+      "title": "Daisy Daydream"
+    },
+    {
+      "curation": {
+        "score": 412,
+        "singletons": 1,
+        "solver_nodes": 12
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 45,
+      "id": "medium_02",
+      "order": 10,
+      "regions": [
+        [
+          1,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          4,
+          2,
+          2,
+          3
+        ]
+      ],
+      "seed": "1107",
+      "size": 5,
+      "solution": [
+        3,
+        0,
+        2,
+        4,
+        1
+      ],
+      "title": "Velvet Violet"
+    },
+    {
+      "curation": {
+        "score": 414,
+        "singletons": 1,
+        "solver_nodes": 14
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 48,
+      "id": "medium_03",
+      "order": 11,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          4,
+          3,
+          3,
+          3
+        ]
+      ],
+      "seed": "1006",
+      "size": 5,
+      "solution": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ],
+      "title": "Mossy Morning"
+    },
+    {
+      "curation": {
+        "score": 414,
+        "singletons": 1,
+        "solver_nodes": 14
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 47,
+      "id": "medium_04",
+      "order": 12,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          4,
+          3,
+          3,
+          2,
+          2
+        ]
+      ],
+      "seed": "1039",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        2,
+        0
+      ],
+      "title": "Apricot Arbor"
+    },
+    {
+      "curation": {
+        "score": 414,
+        "singletons": 1,
+        "solver_nodes": 14
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 63,
+      "id": "medium_05",
+      "order": 13,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          4,
+          3,
+          3,
+          1
+        ]
+      ],
+      "seed": "1119",
+      "size": 5,
+      "solution": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ],
+      "title": "Cotton Clouds"
+    },
+    {
+      "curation": {
+        "score": 415,
+        "singletons": 1,
+        "solver_nodes": 15
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 52,
+      "id": "medium_06",
+      "order": 14,
+      "regions": [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          3,
+          0,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0,
+          2,
+          4
+        ]
+      ],
+      "seed": "1060",
+      "size": 5,
+      "solution": [
+        2,
+        0,
+        3,
+        1,
+        4
+      ],
+      "title": "Rosewater Walk"
+    },
+    {
+      "curation": {
+        "score": 416,
+        "singletons": 1,
+        "solver_nodes": 16
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 38,
+      "id": "medium_07",
+      "order": 15,
+      "regions": [
+        [
+          0,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          0,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          0,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          4,
+          2
+        ]
+      ],
+      "seed": "1022",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Bluebell Bend"
+    },
+    {
+      "curation": {
+        "score": 416,
+        "singletons": 1,
+        "solver_nodes": 16
+      },
+      "difficulty": "Medium",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 78,
+      "id": "medium_08",
+      "order": 16,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          2,
+          2,
+          1
+        ],
+        [
+          0,
+          0,
+          2,
+          1,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          4,
+          1
+        ]
+      ],
+      "seed": "1068",
+      "size": 5,
+      "solution": [
+        1,
+        4,
+        2,
+        0,
+        3
+      ],
+      "title": "Clover Corner"
+    },
+    {
+      "curation": {
+        "score": 417,
+        "singletons": 1,
+        "solver_nodes": 17
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 52,
+      "id": "hard_01",
+      "order": 17,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          4,
+          2
+        ]
+      ],
+      "seed": "1023",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Moonlit Mint"
+    },
+    {
+      "curation": {
+        "score": 417,
+        "singletons": 1,
+        "solver_nodes": 17
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 82,
+      "id": "hard_02",
+      "order": 18,
+      "regions": [
+        [
+          0,
+          0,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          4,
+          2
+        ]
+      ],
+      "seed": "1110",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Orchid Orchard"
+    },
+    {
+      "curation": {
+        "score": 418,
+        "singletons": 1,
+        "solver_nodes": 18
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 79,
+      "id": "hard_03",
+      "order": 19,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          4,
+          2,
+          0
+        ]
+      ],
+      "seed": "1115",
+      "size": 5,
+      "solution": [
+        4,
+        1,
+        3,
+        0,
+        2
+      ],
+      "title": "Silver Sky"
+    },
+    {
+      "curation": {
+        "score": 419,
+        "singletons": 1,
+        "solver_nodes": 19
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 55,
+      "id": "hard_04",
+      "order": 20,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          4,
+          2,
+          0
+        ]
+      ],
+      "seed": "1069",
+      "size": 5,
+      "solution": [
+        4,
+        1,
+        3,
+        0,
+        2
+      ],
+      "title": "Cinnamon Steps"
+    },
+    {
+      "curation": {
+        "score": 419,
+        "singletons": 1,
+        "solver_nodes": 19
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 53,
+      "id": "hard_05",
+      "order": 21,
+      "regions": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          4,
+          3,
+          3
+        ]
+      ],
+      "seed": "1084",
+      "size": 5,
+      "solution": [
+        1,
+        3,
+        0,
+        4,
+        2
+      ],
+      "title": "Lavender Lake"
+    },
+    {
+      "curation": {
+        "score": 420,
+        "singletons": 1,
+        "solver_nodes": 20
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 48,
+      "id": "hard_06",
+      "order": 22,
+      "regions": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          4,
+          2
+        ]
+      ],
+      "seed": "1050",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Willow Whisper"
+    },
+    {
+      "curation": {
+        "score": 421,
+        "singletons": 1,
+        "solver_nodes": 21
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 65,
+      "id": "hard_07",
+      "order": 23,
+      "regions": [
+        [
+          2,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          0,
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          0,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          4,
+          3,
+          3,
+          3
+        ]
+      ],
+      "seed": "1007",
+      "size": 5,
+      "solution": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ],
+      "title": "Blush Brook"
+    },
+    {
+      "curation": {
+        "score": 422,
+        "singletons": 1,
+        "solver_nodes": 22
+      },
+      "difficulty": "Hard",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 74,
+      "id": "hard_08",
+      "order": 24,
+      "regions": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          4,
+          2
+        ]
+      ],
+      "seed": "1090",
+      "size": 5,
+      "solution": [
+        1,
+        4,
+        2,
+        0,
+        3
+      ],
+      "title": "Twilight Trail"
+    },
+    {
+      "curation": {
+        "score": 424,
+        "singletons": 1,
+        "solver_nodes": 24
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 63,
+      "id": "expert_01",
+      "order": 25,
+      "regions": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          4,
+          2,
+          3,
+          3
+        ]
+      ],
+      "seed": "1121",
+      "size": 5,
+      "solution": [
+        3,
+        0,
+        2,
+        4,
+        1
+      ],
+      "title": "Starflower"
+    },
+    {
+      "curation": {
+        "score": 513,
+        "singletons": 0,
+        "solver_nodes": 13
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_02",
+      "order": 26,
+      "regions": [
+        [
+          0,
+          0,
+          0,
+          0,
+          4
+        ],
+        [
+          1,
+          1,
+          4,
+          4,
+          4
+        ],
+        [
+          3,
+          4,
+          4,
+          2,
+          2
+        ],
+        [
+          3,
+          4,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          4,
+          4,
+          2,
+          2
+        ]
+      ],
+      "seed": "1005",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        0,
+        2
+      ],
+      "title": "Secret Courtyard"
+    },
+    {
+      "curation": {
+        "score": 516,
+        "singletons": 0,
+        "solver_nodes": 16
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_03",
+      "order": 27,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          1,
+          2,
+          2,
+          4
+        ],
+        [
+          3,
+          1,
+          2,
+          2,
+          4
+        ],
+        [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      ],
+      "seed": "1038",
+      "size": 5,
+      "solution": [
+        4,
+        1,
+        3,
+        0,
+        2
+      ],
+      "title": "Lunar Lilac"
+    },
+    {
+      "curation": {
+        "score": 519,
+        "singletons": 0,
+        "solver_nodes": 19
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_04",
+      "order": 28,
+      "regions": [
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          4,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          4,
+          1,
+          3,
+          3,
+          2
+        ],
+        [
+          4,
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      ],
+      "seed": "1071",
+      "size": 5,
+      "solution": [
+        3,
+        1,
+        4,
+        2,
+        0
+      ],
+      "title": "Aurora Alley"
+    },
+    {
+      "curation": {
+        "score": 521,
+        "singletons": 0,
+        "solver_nodes": 21
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_05",
+      "order": 29,
+      "regions": [
+        [
+          0,
+          4,
+          4,
+          2,
+          2
+        ],
+        [
+          0,
+          4,
+          1,
+          1,
+          2
+        ],
+        [
+          4,
+          4,
+          3,
+          1,
+          2
+        ],
+        [
+          4,
+          3,
+          3,
+          1,
+          2
+        ],
+        [
+          4,
+          4,
+          4,
+          4,
+          4
+        ]
+      ],
+      "seed": "1061",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Crystal Canopy"
+    },
+    {
+      "curation": {
+        "score": 523,
+        "singletons": 0,
+        "solver_nodes": 23
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_06",
+      "order": 30,
+      "regions": [
+        [
+          0,
+          1,
+          4,
+          4,
+          2
+        ],
+        [
+          0,
+          1,
+          1,
+          4,
+          2
+        ],
+        [
+          3,
+          3,
+          1,
+          4,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          4,
+          2
+        ],
+        [
+          3,
+          4,
+          4,
+          4,
+          2
+        ]
+      ],
+      "seed": "1062",
+      "size": 5,
+      "solution": [
+        0,
+        2,
+        4,
+        1,
+        3
+      ],
+      "title": "Dreamcatcher"
+    },
+    {
+      "curation": {
+        "score": 527,
+        "singletons": 0,
+        "solver_nodes": 27
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_07",
+      "order": 31,
+      "regions": [
+        [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          4,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          4,
+          0
+        ],
+        [
+          4,
+          4,
+          4,
+          4,
+          3
+        ],
+        [
+          4,
+          4,
+          3,
+          3,
+          3
+        ]
+      ],
+      "seed": "1009",
+      "size": 5,
+      "solution": [
+        3,
+        0,
+        2,
+        4,
+        1
+      ],
+      "title": "Celestial Clover"
+    },
+    {
+      "curation": {
+        "score": 531,
+        "singletons": 0,
+        "solver_nodes": 31
+      },
+      "difficulty": "Expert",
+      "generation_options": {
+        "max_attempts": 250,
+        "max_nodes": 100000,
+        "require_unique": true
+      },
+      "generator_version": 1,
+      "growth_attempts": 250,
+      "id": "expert_08",
+      "order": 32,
+      "regions": [
+        [
+          1,
+          4,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          4,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          4,
+          2,
+          3,
+          3
+        ],
+        [
+          4,
+          4,
+          4,
+          4,
+          3
+        ],
+        [
+          4,
+          4,
+          3,
+          3,
+          3
+        ]
+      ],
+      "seed": "1033",
+      "size": 5,
+      "solution": [
+        3,
+        0,
+        2,
+        4,
+        1
+      ],
+      "title": "Purrfect Summit"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: First-launch music and SFX enabled
+PASS: Music routed to Master
+PASS: SFX routed to Master
+PASS: Cat routed to Master
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: tile_place.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: invalid_move.wav
+PASS: Actual nonempty imported audio: hint_chime.wav
+PASS: Actual nonempty imported audio: ui_soft_pop.wav
+PASS: Actual nonempty imported audio: tile_place.wav
+PASS: Actual nonempty imported audio: level_complete.wav
+PASS: Actual nonempty imported audio: hint_chime.wav
+PASS: Actual nonempty imported audio: cat_meow_01.ogg
+PASS: Actual nonempty imported audio: cat_purr_loop.ogg
+PASS: Actual nonempty imported audio: cat_happy_chirp.ogg
+PASS: Actual nonempty imported audio: bgm_cozy_piano.ogg
+PASS: Music loops
+PASS: Purr source loops for bounded playback
+PASS: Meow is one-shot
+WARNING: Audio asset unavailable; continuing without it: res://audio/does_not_exist.ogg
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+   GDScript backtrace (most recent call first):
+       [0] load_clip (res://scripts/audio_manager.gd:130)
+       [1] run (res://tests/audio_tests.gd:44)
+PASS: Missing asset cached safely without fake playback
+PASS: Missing-file diagnostics retained
+PASS: Unknown event fails safely
+PASS: Missing music never reports successful playback
+PASS: Missing one-shot never reports successful playback
+PASS: Independent music gain
+PASS: Independent SFX gain
+PASS: Cat follows sound-effects volume
+PASS: Zero volume truly mutes music
+FADE: playing=true; volume=-4.0
+PASS: Music starts and fades in
+PASS: Music fades out and stops
+PASS: Restart during fade-out cancels stale stop callback
+PASS: Music actually crosses end and loops
+PASS: One-shot event: ui
+PASS: One-shot event: select
+PASS: One-shot event: place
+PASS: One-shot event: mark
+PASS: One-shot event: erase
+PASS: One-shot event: invalid
+PASS: One-shot event: hint
+PASS: One-shot event: undo
+PASS: One-shot event: restart
+PASS: One-shot event: complete
+PASS: One-shot event: unlock
+PASS: Meow plays with natural bounded pitch variation
+PASS: Cat cooldown prevents overlapping vocalizations
+PASS: Happy chirp after cooldown
+PASS: Soft purr starts
+PASS: Looping purr is time-bounded
+PASS: 100 same-time taps yield one placement sound
+PASS: Global voice pool bounds mixed overlapping events
+PASS: Completion feedback survives a busy pool
+PASS: Background pauses music and suppresses effects
+PASS: One interruption cannot clear another
+PASS: Resume never overrides user music mute
+PASS: Application pause notification is connected
+PASS: Application resume preserves mute
+PASS: SFX mute also mutes cats
+PASS: Master mute gates every owned bus
+PASS: Muted music and volume survive a fresh service load
+PASS: Old saves gain ON defaults without losing comfort settings
+PASS: Real menu button emits UI click
+PASS: Actual tile selection and cat placement hooks
+PASS: Rule conflict emits invalid feedback
+PASS: Actual X placement hook
+PASS: Actual X removal hook
+PASS: Actual undo hook
+PASS: Actual restart hook
+PASS: Successful saved hint hook
+PASS: Idle cat context emits a bounded purr
+PASS: Real completion emits celebration once
+PASS: New progression unlock emits chime once
+PASS: Redraw never repeats completion or unlock audio
+PASS: Separate touch-friendly volume controls
+PASS: Settings toggle applies and persists
+PASS: Both settings sliders independently apply volume
+PASS: Both slider values and mute persist to disk
+RESULT: 79 audio checks, 0 failures

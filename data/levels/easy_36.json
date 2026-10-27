@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 316,
+    "singletons": 2,
+    "solver_nodes": 16
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 34,
+  "id": "easy_36",
+  "order": 33,
+  "regions": [
+    [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      2,
+      3,
+      3,
+      0
+    ],
+    [
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    [
+      2,
+      4,
+      3,
+      3,
+      3
+    ]
+  ],
+  "seed": "2120",
+  "size": 5,
+  "solution": [
+    4,
+    2,
+    0,
+    3,
+    1
+  ],
+  "title": "Sky Cove"
+}

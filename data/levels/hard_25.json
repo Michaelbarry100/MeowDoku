@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 420,
+    "singletons": 1,
+    "solver_nodes": 20
+  },
+  "difficulty": "Hard",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 47,
+  "id": "hard_25",
+  "order": 100,
+  "regions": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      2,
+      2,
+      2
+    ],
+    [
+      3,
+      3,
+      2,
+      4,
+      2
+    ]
+  ],
+  "seed": "2060",
+  "size": 5,
+  "solution": [
+    1,
+    4,
+    2,
+    0,
+    3
+  ],
+  "title": "Mint Hollow"
+}

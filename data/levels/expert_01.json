@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 424.0,
+    "singletons": 1.0,
+    "solver_nodes": 24.0
+  },
+  "difficulty": "Expert",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 63.0,
+  "id": "expert_01",
+  "order": 114,
+  "regions": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      0.0,
+      2.0,
+      2.0
+    ],
+    [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      2.0,
+      2.0,
+      2.0,
+      3.0,
+      3.0
+    ],
+    [
+      2.0,
+      4.0,
+      2.0,
+      3.0,
+      3.0
+    ]
+  ],
+  "seed": "1121",
+  "size": 5.0,
+  "solution": [
+    3.0,
+    0.0,
+    2.0,
+    4.0,
+    1.0
+  ],
+  "title": "Starflower"
+}

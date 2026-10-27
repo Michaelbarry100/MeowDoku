@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 315,
+    "singletons": 2,
+    "solver_nodes": 15
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 41,
+  "id": "easy_13",
+  "order": 26,
+  "regions": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    [
+      2,
+      2,
+      4,
+      3,
+      3
+    ]
+  ],
+  "seed": "2014",
+  "size": 5,
+  "solution": [
+    0,
+    3,
+    1,
+    4,
+    2
+  ],
+  "title": "Sky Terrace"
+}

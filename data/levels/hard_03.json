@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 418.0,
+    "singletons": 1.0,
+    "solver_nodes": 18.0
+  },
+  "difficulty": "Hard",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 79.0,
+  "id": "hard_03",
+  "order": 83,
+  "regions": [
+    [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      0.0
+    ],
+    [
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      0.0
+    ],
+    [
+      3.0,
+      3.0,
+      3.0,
+      2.0,
+      0.0
+    ],
+    [
+      3.0,
+      3.0,
+      4.0,
+      2.0,
+      0.0
+    ]
+  ],
+  "seed": "1115",
+  "size": 5.0,
+  "solution": [
+    4.0,
+    1.0,
+    3.0,
+    0.0,
+    2.0
+  ],
+  "title": "Silver Sky"
+}

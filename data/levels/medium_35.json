@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 413,
+    "singletons": 1,
+    "solver_nodes": 13
+  },
+  "difficulty": "Medium",
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 66,
+  "id": "medium_35",
+  "order": 51,
+  "regions": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      3,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      3,
+      3,
+      2,
+      0
+    ],
+    [
+      3,
+      3,
+      3,
+      3,
+      4
+    ]
+  ],
+  "seed": "2122",
+  "size": 5,
+  "solution": [
+    2,
+    0,
+    3,
+    1,
+    4
+  ],
+  "title": "Rose Cove"
+}

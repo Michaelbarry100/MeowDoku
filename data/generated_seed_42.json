@@ -1,0 +1,57 @@
+{
+  "generation_options": {
+    "max_attempts": 250,
+    "max_nodes": 100000,
+    "require_unique": true
+  },
+  "generator_version": 1,
+  "growth_attempts": 59,
+  "id": "seed_5_42",
+  "regions": [
+    [
+      3,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      3,
+      3,
+      1,
+      2
+    ],
+    [
+      3,
+      3,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      3,
+      4,
+      2,
+      2
+    ]
+  ],
+  "seed": "42",
+  "size": 5,
+  "solution": [
+    3,
+    1,
+    4,
+    0,
+    2
+  ],
+  "title": "Pastel Garden"
+}

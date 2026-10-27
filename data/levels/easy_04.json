@@ -1,0 +1,64 @@
+{
+  "curation": {
+    "score": 312.0,
+    "singletons": 2.0,
+    "solver_nodes": 12.0
+  },
+  "difficulty": "Easy",
+  "generation_options": {
+    "max_attempts": 250.0,
+    "max_nodes": 100000.0,
+    "require_unique": true
+  },
+  "generator_version": 1.0,
+  "growth_attempts": 49.0,
+  "id": "easy_04",
+  "order": 4,
+  "regions": [
+    [
+      0.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0
+    ],
+    [
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    [
+      1.0,
+      3.0,
+      3.0,
+      3.0,
+      2.0
+    ],
+    [
+      1.0,
+      1.0,
+      1.0,
+      4.0,
+      2.0
+    ]
+  ],
+  "seed": "1067",
+  "size": 5.0,
+  "solution": [
+    0.0,
+    2.0,
+    4.0,
+    1.0,
+    3.0
+  ],
+  "title": "Mint Meadow"
+}
